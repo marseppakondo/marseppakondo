@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%F0%9F%9A%80;Studying+at+Telkom+University+Purwokerto;Always+Learning+New+Things+%F0%9F%A7%A9;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com" alt="marseppakondo" />
-</p>
-
-
 
 ---
 
